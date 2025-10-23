@@ -5,6 +5,8 @@
 <img src="https://img.shields.io/badge/nuget-004880?style=for-the-badge&logo=nuget&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/zig-F7A41D?style=for-the-badge&logo=zig&logoColor=FFFFFF"/>
 </span>
 <!--
